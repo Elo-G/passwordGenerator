@@ -118,7 +118,7 @@ button {
   }
 
   main{
-    background: url("../../assets/images/bg768.png") ;
+    background: url(../../assets/images/bg768.png) ;
   }
 
   label{
@@ -159,7 +159,7 @@ button {
 @media only screen and (max-width:414px) and (orientation: portrait){
   
   main{
-    background: url("../../assets/images/bg500.png") ;
+    background: url(../../assets/images/bg500.png) ;
     background-position: bottom center;
     height: 87%;
   }
